@@ -1,3 +1,4 @@
 Adding this info file to SCM poll working or not
 Whenever we add or change or commit build will trigger
 Because we asked jenkins to check git ripository for every minute
+am added this line
